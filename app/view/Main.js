@@ -10,7 +10,7 @@ Ext.define('myapp.view.Main', {
 
         items: [
             {
-                title: '首页',
+                title: '首页2',
                 iconCls: 'home',
 
                 styleHtmlContent: true,
